@@ -1,5 +1,5 @@
-function price(name, age ){
-  console.log('hello '+ name + ' your age is ' + age );
+function price(name, age ) {
+  console.log('hello '+ name + ' your age is ' + age )
 }
 
 price('Hama', 26);
